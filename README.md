@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
+   ![g](https://github.com/i-am-ayesha/i-am-ayesha/assets/125878564/20e24ac8-354d-4ec0-8f25-ef158aec9420)
 
 - 🔭 I’m currently working at **Bytewise Limited as Data Engineer Internee**
 
