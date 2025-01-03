@@ -4,12 +4,13 @@
 
    ![g](https://github.com/i-am-ayesha/i-am-ayesha/assets/125878564/20e24ac8-354d-4ec0-8f25-ef158aec9420)
  
-
-- 🔭 I’m currently working at **Bytewise Limited as Data Engineer Internee**
+- 🔭 I’m currently working at **Waiz Software as Software Engineer**
+  
+- 🔭 I previously worked at **Bytewise Limited as Data Engineer Internee**
 
 - 🌱 I’m currently learning **Azure and GCP**
 
-- ⚙️ [I love to code in Python and R.](I love to code in Python and R.)
+- ⚙️ I love to code in Python and R.
 
 - 📝 I write articles on [Medium](Medium)
 
